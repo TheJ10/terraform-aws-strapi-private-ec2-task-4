@@ -1,4 +1,4 @@
-# Terraform – Private EC2 with Strapi behind Application Load Balancer
+# Terraform – Terraform-Based Private EC2 Deployment with Strapi using Docker
 
 ## Overview
 
@@ -181,6 +181,11 @@ terraform destroy
 - Secure, private AWS infrastructure
 - Clean Terraform modular design
 - Real-world DevOps implementation
+
+---
+
+## Loom Video
+Link: https://www.loom.com/share/e8a97a4d15e145aab0d9379530b3bad0
 
 ---
 
